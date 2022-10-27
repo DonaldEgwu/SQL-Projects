@@ -1,8 +1,6 @@
 SELECT *
 FROM [PortfolioProject].[dbo].[SalesPortFolio]
 
---what is the item most bought by people in the age between 19 to 45
-
 --SALES BREAKDOWN
 
 
